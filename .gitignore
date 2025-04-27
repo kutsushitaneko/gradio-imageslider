@@ -1,0 +1,15 @@
+.venv/
+old/
+.cursor
+faces/
+images/
+images_original/
+embeddings/
+ecimages/
+output/
+prompts/
+.env
+*.kv
+*.npy
+code-workspace
+__pycache__
